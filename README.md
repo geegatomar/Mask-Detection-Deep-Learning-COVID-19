@@ -1,4 +1,7 @@
 # Mast Detection Deep Learning COVID 19
 
+To run on your system, first clone the repository and then type in the command line:
+</t> ` python detect_mask_video.py `
+<br>
+## Workflow
 <img src="face_mask_detection_phases.png">
-![image for workflow]("https://github.com/geegatomar/Mast-Detection-Deep-Learning-COVID-19/blob/master/face_mask_detection_phases.png?raw=true")
